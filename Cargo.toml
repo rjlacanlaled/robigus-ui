@@ -8,4 +8,4 @@ edition = "2021"
 [dependencies]
 
 [workspace]
-members = ["robigus-ui", "robigus-ui-web"]
+members = ["apps/robigus-ui", "apps/robigus-ui-web"]

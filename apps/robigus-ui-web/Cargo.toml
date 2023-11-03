@@ -10,3 +10,4 @@ actix-files = "0.6"
 actix-web = "4"
 maud = { version = "^0", features = ["actix-web"] }
 serde = { version = "1", features = ["derive"] }
+robigus-ui = { path = "../robigus-ui" }
